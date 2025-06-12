@@ -14,11 +14,11 @@ Product Category Insights: Breakdown of revenue from categories such as Clothing
 
 Customer Demographics:
 
-1.Gender
+1. Gender
 
-2.Retirement Status (Retired / Not Retired)
+2. Retirement Status (Retired / Not Retired)
 
-3.Yearly Comparisons: 2021, 2022, 2023
+3. Yearly Comparisons: 2021, 2022, 2023
 
 ## 🧰 Tools Used
 
