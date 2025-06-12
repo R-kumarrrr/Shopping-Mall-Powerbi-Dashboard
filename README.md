@@ -32,7 +32,8 @@ PDF & Image exports from the dashboard for reporting
 
 ## 🖼️ Dashboard Previews
 
-<img width="827" alt="Screenshot 2025-06-12 at 4 29 37 PM" src="https://github.com/user-attachments/assets/8d7896eb-6d30-4e16-8aa7-8ca59a2fbe03" />
+<img width="827" alt="Screenshot 2025-06-12 at 4 29 37 PM" src="https://github.com/user-attachments/assets/a634a553-256f-4fe8-a349-2210f3e8912b" />
+
 
 
 ## 💡 Insights Summary
